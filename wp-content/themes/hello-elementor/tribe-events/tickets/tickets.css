@@ -1,0 +1,4 @@
+.entry .entry-content .tribe-common .tribe-tickets__item__quantity__add, .entry .entry-content .tribe-common .tribe-tickets__item__quantity__remove, .tribe-common .tribe-tickets__item__quantity__add, .tribe-common .tribe-tickets__item__quantity__remove{
+    color:brown;
+    visibility: hidden;
+}
